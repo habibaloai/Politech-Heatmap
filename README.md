@@ -76,11 +76,9 @@ GeoPandas depends on native libraries for reading shapefiles. On most systems, `
 ### 1. Clone the repository
 
 ```bash
-git clone https://github.com/YOUR_USERNAME/Hackathon25.git
-cd Hackathon25
+git clone https://github.com/habibaloai/Politech-Heatmap.git
+cd Politech-Heatmap
 ```
-
-Replace `YOUR_USERNAME` with your GitHub username once the repo is published.
 
 ### 2. Create a virtual environment (recommended)
 
